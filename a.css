@@ -1,11 +1,12 @@
 body {
   
-   
-    background-image: url(https://img.freepik.com/fotos-premium/colheitadeira-colhendo-campo-de-trigo-em-uma-cidade-futurista_10567-3770.jpg?w=826);
+   background-size: cover;
+    background-color: lightblue;
 }
 
-.a{ font-size: large; }
+.a{ font-size: x-large; }
 
 .aaa{ width: 300px;    }
 .ab{width: 500px;}
-.abb{font-size: large;}
+.abb{font-size: x-large;}
+p{color: rgb(0, 0, 0);}
